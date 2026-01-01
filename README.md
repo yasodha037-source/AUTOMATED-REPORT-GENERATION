@@ -27,3 +27,9 @@ The dataset used in this project is stored in a CSV file format. CSV files are l
 The overall workflow of the system is straightforward. First, the user opens the web application in a browser. The frontend sends a request to the backend when the report generation option is selected. The backend reads the CSV data using Pandas, analyzes it, and generates a PDF report using ReportLab. Finally, the completed report is returned to the user as a downloadable file.
 
 This project demonstrates practical usage of Python-based web development, data analysis, and automated document generation. It highlights the importance of backend processing combined with a simple frontend interface. The Automated Report Generation System is highly useful in academic institutions and organizations where reports need to be generated frequently from structured data, saving time and reducing human errors.
+
+*OUTPUT*
+
+<img width="930" height="341" alt="Image" src="https://github.com/user-attachments/assets/39b7be53-7332-4092-80bf-76343c5fddec" />
+
+<img width="943" height="469" alt="Image" src="https://github.com/user-attachments/assets/6ac36d8e-9318-473f-b3b1-32daa5d2b244" />
